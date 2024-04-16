@@ -3,7 +3,8 @@
         "include": [
             "lib/**/*.jar",
             "/Users/ericfabroa/JARs/mac_core.jar",
-            "/Users/cherrie/Downloads/core.jar"
+            "/Users/cherrie/Downloads/core.jar",
+            "/Users/rahukuh4262/Downloads/core.jar"
         ],
         "exclude": [
             "lib/repl_core.jar"
